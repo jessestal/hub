@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 robert is een ei
+=======
+sweet apples
+oranges
+kiwis
+carrots
+>>>>>>> github/master
