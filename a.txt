@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-robert is een ei
-=======
-sweet apples
+sour apples
 oranges
 kiwis
 carrots
->>>>>>> github/master
